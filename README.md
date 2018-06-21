@@ -1,6 +1,6 @@
 # test
 
-commited test
+Replaced
 
 branch test
 
